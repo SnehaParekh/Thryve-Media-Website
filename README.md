@@ -1,0 +1,2 @@
+# Thryve-Media-Website
+This is a responsive website - built for rendering in laptop, tablet as well as cellphone. I made use of CSS Media Queries to achieve responsiveness. I had come across the original website that Thryve Media has, and tried to reconstruct it. The result was this project. Apart from responsive-designing, I also learnt a great deal about CSS transitions and how to use it optimally for scroll effects and navigation.
